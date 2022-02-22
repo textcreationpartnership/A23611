@@ -1,0 +1,630 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defence of true Protestants, abused for the service of popery, under the name of Presbyterians in a dialogue between A. and L. two sons of the church : where it is debated, whether discenting Presbyterians be as bad or worse than papists : and other popish assertions are detected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23611</idno>
+            <idno type="STC">Wing A1</idno>
+            <idno type="STC">ESTC R21360</idno>
+            <idno type="EEBO-CITATION">12226500</idno>
+            <idno type="OCLC">ocm 12226500</idno>
+            <idno type="VID">56534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 621:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defence of true Protestants, abused for the service of popery, under the name of Presbyterians in a dialogue between A. and L. two sons of the church : where it is debated, whether discenting Presbyterians be as bad or worse than papists : and other popish assertions are detected.</title>
+               </titleStmt>
+               <extent>[2], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.P., and sold by Rich. Janua ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56534:1"/>
+            <pb facs="tcp:56534:1" rendition="simple:additions"/>
+            <p>A DEFENCE OF <hi>True Proteſtants,</hi> Abuſed for the Service of POPERY, Under the Name of PRESBYTERIANS. In a <hi>Dialogue</hi> between <hi>A.</hi> and <hi>L.</hi> two <hi>Sons</hi> of the <hi>Church.</hi> Where it is Debated, Whether <hi>Diſcenting Presbyterians</hi> be as Bad or Worſe than <hi>Papiſts;</hi> And other <hi>Popiſh Aſſertions</hi> are Detected.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. P.</hi> and Sold by <hi>Rich. Janua,</hi> in <hi>Queens-Head Court,</hi> in <hi>Pater-Noſter Row,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:56534:2"/>
+            <pb n="1" facs="tcp:56534:2"/>
+            <head>A Defence of the Proteſtants, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>L.</speaker>
+               <p>SIR, I am glad to meet you here, but ſome<g ref="char:EOLhyphen"/>thing amuſed to ſee you ſo Penſive.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Our preſent Circumſtances may make us all ſo, ſeeing we are in the greateſt danger of <hi>Popery,</hi> which threatens to ruine us in Eſtate, Body and Soul, and our Children after us. And yet there are many not apprehenſive of it, too many among us of the Cler<g ref="char:EOLhyphen"/>gy, which doth not a little amuſe me, ſince they are Prudent Perſons, ſenſible enough of their Intereſt, and better, I would hope, then to ſecure it by throwing their Religion overboard, and yet there is no other way viſible to do it, if the <hi>Popiſh Deſignes</hi> ſucceed.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>They are very artificial men I'le aſſure you, and many things may be alledged for them. It may be <hi>Popery</hi> is not a thing ſo formidable to them as it is to ſome hotter men. Or it may be they have found out ſome expedients to reconcile the harſher points of <hi>Popery</hi> to their own moderate ſentiments. Or it may be they are over-awed by perſons of great eminency on whom they have their dependence. Or —</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What you alledge for them, makes them farr worſe than I hope they are. For the firſt ſignifies that they are but indifferent <hi>Proteſtants.</hi> The next, that they have found out a plauſible way to be <hi>Papiſts.</hi> And the third that they are not like to be true to either Reli<g ref="char:EOLhyphen"/>gion. For if thoſe on whom they depend would have
+<pb n="2" facs="tcp:56534:3"/>the People turn <hi>Turks, Jews</hi> or <hi>Heathens,</hi> they muſt not <hi>vote</hi> not <hi>petition</hi> (although they may legally do ei<g ref="char:EOLhyphen"/>ther) to hinder it: for they are ſtill over-awed, and muſt not Diſoblige their Superiors, leſt they deſert them when their Intereſt is otherwiſe in hazard.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>You interrupted me, or elſe I had mentioned another thing which will Juſtify them. They are a<g ref="char:EOLhyphen"/>fraid of <hi>another Party,</hi> who if the <hi>Papiſts</hi> were too much ſuppreſt, and the Ballance not kept even, might prove more dangerous then they.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What <hi>Party</hi> do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I mean the <hi>Preſbyterians, who are as bad or worſe then Papiſts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Do you conſider what Religion they are of, when you make this compariſon, and give the <hi>Papiſts</hi> the preference?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Yes. That alſo conſidered, that they profeſs them<g ref="char:EOLhyphen"/>ſelves to be <hi>Proteſtants.</hi> I know their Religion well enough.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am much ſurprized to hear this from you. I always took you to be a <hi>Proteſtant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And does this ſignifie that I am a <hi>Papiſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>He that underſtands theſe two Religions and paſſeth this Judgment, not in heat nor diſordered by Paſſion, but ſedately and with conſideration, is either <hi>a Papiſt,</hi> or <hi>ſufficiently prepared to be one when occaſion ſerves.</hi>
+               </p>
+            </sp>
+            <pb n="3" facs="tcp:56534:3"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>How doth this appear?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Very plainly and eaſly. For a <hi>Preſbyterian</hi> holds all the points of the <hi>Proteſtant Religion.</hi> If then he be worſe then a <hi>Papiſt,</hi> a <hi>Proteſtant</hi> is worſe then a <hi>Papiſt,</hi> and the <hi>Proteſtant Religion</hi> will be worſe than <hi>Popery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I underſtand not this.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That may be from your Will rather than your Reaſon. Not becauſe it is not clear, but becauſe you would not have it ſo. It is plain enough to thoſe that have Eyes and will open them. If you ſhould hear one that judges a <hi>Chriſtian,</hi> in point of <hi>Religion,</hi> to be worſe then a <hi>Mahumetan,</hi> you would not queſtion but that man is a <hi>Turk.</hi> He, that ſpeaking of the <hi>Religions</hi> in <hi>France,</hi> ſhould determine that the <hi>Proteſtants</hi> are worſe then the <hi>Papiſts,</hi> would thereby ſhew himſelf a <hi>Papiſt,</hi> nor need one wiſh a clearer Demonſtration of it. And can they be better who thus determine of <hi>Preſbyterians</hi> in <hi>England,</hi> then he that doth it in <hi>France,</hi> when all the <hi>Proteſtants</hi> there, are <hi>Preſbyterians?</hi> Indeed all the <hi>Proteſtants</hi> in other Contries are involved in this cen<g ref="char:EOLhyphen"/>ſure, and Condemned as worſe then <hi>Papiſts.</hi> For all the <hi>Proteſtants</hi> in <hi>France, Switreland,</hi> the <hi>Low Countryes,</hi> and very many in <hi>Germany, Tranſylvania, Poland, &amp;c.</hi> are <hi>Preſbyterians.</hi> And the <hi>Lutherans</hi> in theſe and other Countryes cannot with any reaſon be exempted: for none except themſelves will pretend, that thoſe things wherein as <hi>Lutherans</hi> they differ from other more <hi>Reformed Churches,</hi> do make them better: and ſo if the <hi>Preſbyterians</hi> in all theſe Churches be worſe then <hi>Papiſts,</hi> the <hi>Lutherans</hi> muſt be ſo too. Nay, there are
+<pb n="4" facs="tcp:56534:4"/>few in <hi>England</hi> will eſcape this cenſure, and ſo there will ſcarce be any in this Kingdom but muſt be worſe then <hi>Papiſts,</hi> ſave <hi>Papiſts</hi> themſelves. For I ſee the late <hi>Houſe of Commons</hi> in ſeveral Pamphlets condemned as <hi>Preſbyterians,</hi> and with them the Commons of <hi>England</hi> are caſt, who chooſe ſuch. And if the <hi>Houſe of Lords</hi> be not of a better <hi>Religion</hi> then that of the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> they muſt be both together worſe then <hi>Papiſts.</hi> So that unleſs the Lords and Commons can be perſwaded by ſuch <hi>Judicious Cenſurers</hi> to be of a better <hi>Religion</hi> then that of the <hi>Preſbyterians,</hi> which is the ſame and no other, then the <hi>Proteſtant,</hi> we are like to be in an ill Condition. Nay, the <hi>Biſhops</hi> and the beſt ſons of the Church, will be worſe than <hi>Papiſts,</hi> unleſs thoſe things wherein they vary from other <hi>Proteſtants,</hi> (ſuch as are no part of that, nor any <hi>Religion</hi> elſe) can make them <hi>better.</hi> Beſides, that thoſe who are not yet <hi>Papiſts,</hi> are by this perſwaſion throughly prepared for <hi>Popery,</hi> is very apparent: for if <hi>Papiſts</hi> muſt be preferr'd before <hi>Preſbyterians;</hi> then their principles muſt be worſe then thoſe of the <hi>Papiſts.</hi> Whereas even thoſe wherein they differ from the <hi>Church of England,</hi> and for which alone they are obnoxious, are in the account of the moſt judicious <hi>Prelates</hi> and <hi>Doctors</hi> that this Church hath bred, <hi>tollerable Points,</hi> no <hi>parts of Religion, ſcarce any but matter of indifferency,</hi> and ſuch wherein others <hi>Re<g ref="char:EOLhyphen"/>formed Churches</hi> agree with them. Now if for theſe they muſt be counted worſe than <hi>Papiſts,</hi> then the <hi>worſt</hi> things in <hi>Popery,</hi> muſt paſs for <hi>better</hi> then tolerable and indifferent things: Then all the <hi>Popiſh Idolatries;</hi> their abſurd, impious and pernicious Doctrines in matters of Faith; their groſs Impoſtures, their practical Max<g ref="char:EOLhyphen"/>ims, ſubverting Morality, Humanity and human Soci<g ref="char:EOLhyphen"/>ety; muſt not be thought ſo bad, as ſome <hi>tolerable miſ<g ref="char:EOLhyphen"/>takes,</hi>
+                  <pb n="5" facs="tcp:56534:4"/>and who then but ſome ſilly <hi>Fanaticks</hi> will ſtick at them? It is plaine you hereby leave your ſelf and o<g ref="char:EOLhyphen"/>thers little or no reaſon to baulk the very worſt things in <hi>Popery,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I did not ſo well conſider the conſequence of what I aſſerted. However you have not yet made good the ground of your Inference, nor can do. For do not theſe <hi>Preſbyterians</hi> differ in many things from the <hi>Religion</hi> of the <hi>Church</hi> of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No. Not from the <hi>Religion of this Church</hi> in any thing that I know.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>That's ſtrang. Do they not differ in the <hi>Rites</hi> and <hi>Ceremonies,</hi> the <hi>publick Liturgy,</hi> the <hi>Diſcipline</hi> and <hi>Government</hi> of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Call you theſe Points of the <hi>Proteſtant Relgion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why not, I pray? Are not theſe conſiderable Parts of the <hi>Religion of this Church</hi> as it is <hi>eſtabliſhed by Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Theſe are no Parts of the <hi>Religion eſtabliſhed by Law:</hi> for they are no points of <hi>Religion</hi> at all, but mat<g ref="char:EOLhyphen"/>ters of Indifferency, as the <hi>Church</hi> of <hi>England</hi> declares them to be, and no <hi>Religion</hi> is to be placed in things In<g ref="char:EOLhyphen"/>different. And the Reaſon is obvious. For <hi>Religion,</hi> if it be <hi>True,</hi> muſt be Authorized by God, or Inſtituted by Chriſt, but things Indifferent are neither command<g ref="char:EOLhyphen"/>ed nor forbiden.</p>
+            </sp>
+            <pb n="6" facs="tcp:56534:5"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>This is true of the <hi>Ceremonies,</hi> the <hi>Church</hi> ſigni<g ref="char:EOLhyphen"/>fies that they are in their own nature Indifferent, and declares withal that <hi>no Religion is to be placed in things Indifferent.</hi> But will you have the <hi>Sacred Liturgy</hi> to be a thing of this Nature, and of no more value than that which in it ſelf, is neither Bad nor Good?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I pay all due Reverence to our <hi>Liturgy;</hi> but no Veneration ſhould blind us, or hinder us from diſcern<g ref="char:EOLhyphen"/>ing the true Nature of things. Prayer in general is an eminent Part of <hi>Religion,</hi> and <hi>Divine Worſhip,</hi> and ne<g ref="char:EOLhyphen"/>ceſſary both by the Light of Nature, and Revelation; but this or that <hi>Form of Prayer,</hi> how exact ſoever, is in it ſelf no other than Indifferent. This all acknowledge who underſtand any thing concerning theſe Matters.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But what <hi>Religion</hi> do you then leave thoſe, who by their Heats for theſe things, and their Indifferency as to others, ſhew that theſe only are their <hi>Religion,</hi> or the <hi>Principal</hi> part of it?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I leave them all they had, if they had leſt them<g ref="char:EOLhyphen"/>ſelves any, but indeed thoſe who place all their <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> herein, have no <hi>Religion</hi> at all; and thoſe who make theſe the Principal Part of their <hi>Religion,</hi> make leſs of that which is <hi>Religion</hi> indeed, than of an Indif<g ref="char:EOLhyphen"/>ferent thing: and ſo indeed are Indifferent as to this or that <hi>Religion, Proteſtantiſm</hi> or <hi>Popery:</hi> or which is worſe, indifferent as to any <hi>Religion,</hi> or none. And thoſe that have any Love for the Souls of People, ſhould endeavour to undeceive them therein, and not leave them under ſuch Conceits as make them too ea<g ref="char:EOLhyphen"/>ſy a Prey to <hi>Popiſh Seducers,</hi> who need deſire no more than that we ſhould value the whole <hi>Proteſtant Reli<g ref="char:EOLhyphen"/>gion</hi>
+                  <pb n="7" facs="tcp:56534:5"/>leſs than ſome matters of Indifferency.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But muſt our <hi>Church Government</hi> paſs under the ſame Account?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>So far as it is not of divine Inſtitution, it is in it ſelf no better than Matter of Indifferency, and of the very many branches of our <hi>Government,</hi> there is but one that pretends to an higher Original. And about that one, <hi>viz. The Power and Superiority of Biſhops,</hi> they themſelves are divided, ſome aſſerting the <hi>Divine Right</hi> of <hi>Prelacy,</hi> others denying it. It is denyed to be of divine Inſtitution, by Arch-Biſhop <hi>Cranmer,</hi> and our firſt Reformers in <hi>Henry</hi> the <hi>Eighth</hi> and <hi>Edward</hi> the <hi>Sixth's</hi> Times, by Arch-Biſhop <hi>Whit<g ref="char:EOLhyphen"/>gift,</hi> Biſhop <hi>Bridges,</hi> and others in Queen <hi>Elizabeth's</hi> Time, by King <hi>James</hi>
+                  <note n="(a)" place="margin">See theſe with many more, in <hi>Ed. Stil<g ref="char:EOLhyphen"/>lingfleet, Iren. Pag. 393. 394.</hi>
+                  </note> himſelf, &amp;c. Now you cannot well conclude, that they differ from us in any point of Religion on this account, till we be agreed a<g ref="char:EOLhyphen"/>mongſt our ſelves, that this is a point of <hi>Religion.</hi> Or-if you will have it concluded by a major Part, take <hi>Epiſcopacy</hi> as it is now ſtated, for a <hi>diſtinct Office, in<g ref="char:EOLhyphen"/>veſted with the ſole Power of Ordination and Juriſdiction,</hi> and of thoſe <hi>Biſhops</hi> who have writ moſt in defence of <hi>Prelacy</hi> among us, it will be carried againſt you by two for one, that ſuch <hi>Prelacy</hi> is not of <hi>divine Authori<g ref="char:EOLhyphen"/>ty,</hi> and ſo no part of <hi>Religion.</hi> And thoſe that plead for the higheſt Title, make it a point of very ſmall Mo<g ref="char:EOLhyphen"/>ment.<note n="(b)" place="margin">
+                     <hi>Peace-Ma<g ref="char:EOLhyphen"/>ker,</hi> pag. 46. 47.</note> Biſhop <hi>Hall</hi> one of the moſt Zealous Aſſerters of <hi>Epiſcopacy by Divine right,</hi> declares it as the Sence of all <hi>Proteſtants, Epiſcopal</hi> as well as others,<note n="(c)" place="margin">B. Gawden <hi>Preſ. to</hi> Hooker's Eccl. Po<g ref="char:EOLhyphen"/>licy.</note> that <hi>they can ſee no reaſon, why ſo poor a Diverſity, ſhould work an Alie<g ref="char:EOLhyphen"/>nation of Affection in us towards one another. Another of our</hi> Biſhops tell you, the things forementioned, are no
+<pb n="8" facs="tcp:56534:6"/>
+                  <hi>Fixed Parts of our Religion,</hi> but <hi>Circumſtantials,</hi> and <hi>Ornaments.</hi> A third will have them the Skin of an <hi>Apple,</hi> which muſt not be pared of, if you would have it keep. Not to mention others (as not worthy of re<g ref="char:EOLhyphen"/>gard) who will have them more like the Core of. an Apple, when it hath been kept too long. So that what Streſs ſoever Intereſt layes upon theſe and ſuch like points, <hi>Religion</hi> layes little or none thereon.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But there are many who will lay the greateſt Streſs upon this, and are greatly concerned to do it, they are ſenſible, and you may eaſily apprehend, how much depends on it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I know their Wealth and Grandeur may ſeem a little concerned in it: but if they will count thoſe who are of the ſame <hi>Religion</hi> worſe than <hi>Papiſts,</hi> becauſe they think them not friendly enough to their worldly Intereſt, they will be ſuſpected to value the <hi>World</hi> more than <hi>Religion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But, which I had almoſt forgot, they differ from us in the Doctrine of <hi>Predeſtination,</hi> and other Points that depend thereon.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>You mean, I ſuppoſe, the Oppinions of <hi>Arminius</hi> and his Followers, concerning <hi>Conditional Election, the equal Redemption of all, Free-will, the indifferent operation of Grace,</hi> and <hi>Falling-away from the ſtate of Grace.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Yes, theſe I underſtand, and theſe you cannot de<g ref="char:EOLhyphen"/>ny to be Points of Faith and matters of <hi>Religion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They are no parts of the <hi>Proteſtants Religion,</hi> nor of the Doctrine of the <hi>Church</hi> of <hi>England,</hi> being not
+<pb n="9" facs="tcp:56534:6"/>contained in the Confeſſions of any of the <hi>Proteſtant Churches,</hi> nor in the <hi>Articles</hi> of the <hi>Church</hi> of <hi>England,</hi> but rather the contrary. So that herein they differ not from the <hi>Church,</hi> who never owned theſe Opinions; but from ſome particular Perſons in it; and differ no more from them, then many other <hi>Sons</hi> of the <hi>Church</hi> do at this day; and all in a manner did for many Years after the <hi>Reformation.</hi> In all <hi>Queen Elizabeths</hi> Reign I find not above <hi>three</hi> of any note, among all the <hi>Clergy</hi> and in both <hi>Univerſities,</hi> that maintain'd theſe Doct<g ref="char:EOLhyphen"/>rines, and two of them cenſured for it. Afterwards King <hi>James</hi> promoted the Condemnation of the <hi>Ar<g ref="char:EOLhyphen"/>minian</hi> Tenets by the <hi>Synod</hi> of <hi>Dort,</hi> ſending Eminent Divines from hence, who concurred with others from the <hi>Reformed Churches</hi> in the cenſure of them. He him<g ref="char:EOLhyphen"/>ſelf declared<note n="(d)" place="margin">K. James <hi>Declaration</hi>
+                  </note> 
+                  <hi>Arminius</hi> to be <hi>an Enemy to God,</hi> and <hi>his followers to be Atheiſtcal Sectaries.</hi> In the late <hi>Kings</hi> time, ſeveral <hi>Parliaments</hi> declared againſt <hi>Armianiſm</hi> as <hi>an Innovation of pernicious conſequence.</hi> And thoſe who moſt loved it, and had the greateſt advantages to influence <hi>the Clergy</hi> in favour of it, durſt not venture it to the Teſt of a Convocation, as one<note n="(e)" place="margin">Heyl. <hi>Life of</hi> A.L. pag. 153.</note> who had a paſſionate Fondneſs for it confeſſes. <hi>So it</hi> is, ſaies he, <hi>that the truth in theſe Opinions not being ſo generally en<g ref="char:EOLhyphen"/>tertain'd among the Clergy, nor the Arch-Biſhop and the greater part</hi> of <hi>the Prelates, ſo inclinable to them, as to venture the determining of theſe Points to a Convocation.</hi> How far then were theſe Opinions from being count<g ref="char:EOLhyphen"/>ed the <hi>Doctrine</hi> of our <hi>Church,</hi> when there was no ex<g ref="char:EOLhyphen"/>pectation that they would be accounted <hi>Truths</hi> by our <hi>Church repreſentative?</hi> Sure they act more agreeably to the ſenſe of the <hi>Church</hi> of <hi>England</hi> thus far, who reject theſe <hi>Arminian Tenets</hi> then they who embrace them.</p>
+            </sp>
+            <pb n="10" facs="tcp:56534:7"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But though the <hi>Preſbyterians</hi> hold all the points of the <hi>Proteſtant Religion,</hi> yet they maintain other Opinions beſides, ſuch as are pernicious to <hi>Civel Government</hi> and Secular <hi>Princes,</hi> upon this account they may be ſaid to be worſe than <hi>Papiſts,</hi> their Princi<g ref="char:EOLhyphen"/>ples of this nature being more dangerous.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have heard ſome ſuch thing ſaid diverſe times, but I muſt do them this right as to declare, that I ne<g ref="char:EOLhyphen"/>ver ſaw it proved, nor ever expect it. Upon a ſtrict Inquiry I find their principles about <hi>Civel Government,</hi> to be no other, than what the eminenteſt of our Prelates and learned Divines, ſuch as Biſhop <hi>Jewel, Mr. Hooker,</hi> Biſhop <hi>Bilſon,</hi> Biſhop <hi>Morton,</hi> &amp;c. have owned, or defended, ſo far is it from being true, that their opinions herein are as bad or worſe than the <hi>Papiſts.</hi> And they may challenge all the <hi>Papiſts</hi> in <hi>England,</hi> maſqued and unmaſqued, to make it good from the Writings of any conſiderable Divines approved by thoſe of that Deno<g ref="char:EOLhyphen"/>mination. But that you may have a more particular ſatisfaction, let us take a view of ſome Popiſh Principles reſpecting Civel Government and Humane Societies, ſome wherein we are particularly concerned, and then compare them with thoſe charged on the <hi>Preſ<g ref="char:EOLhyphen"/>byterians</hi> by their bittereſt enemies.</p>
+               <q>
+                  <p>They hold, <hi>That</hi> all <hi>Proteſtants</hi> are <hi>Hereticks,</hi> and as ſuch, excommunicated and accurſed.</p>
+                  <p>
+                     <hi>That,</hi> no ſort of Proteſtant Magiſtrates or others, have any juſt Title to Eſtate, Liberty or Honour, but may lawfully be ſtript of all.</p>
+                  <p>
+                     <hi>That,</hi> they ought to be put to death and burnt alive when they are in their Power.</p>
+                  <p>
+                     <hi>That,</hi> when they can't proceed judicially againſt them, they ought to deſtroy them by open Wars and Maſſacres or Aſſaſſinations.</p>
+                  <pb n="11" facs="tcp:56534:7"/>
+                  <p>
+                     <hi>That,</hi> all Lawes, Divine and Humane will have them deſtroyed.</p>
+                  <p>
+                     <hi>That,</hi> it is not only lawful, but a Pious and Meritori<g ref="char:EOLhyphen"/>ous Act to ſlaughter them.</p>
+                  <p>
+                     <hi>That,</hi> it is no more ſin to kill them than to kill a Wolf or a Dog.</p>
+                  <p>
+                     <hi>That,</hi> by what obligations ſoever, either of Kind<g ref="char:EOLhyphen"/>red, Friendſhip, Loyalty or Subjection, they be bound unto them, they may, or rather muſt, take Arms a<g ref="char:EOLhyphen"/>gainſt them, being <hi>Hereticks;</hi> and then muſt they take them to be <hi>Hereticks,</hi> when their lawful <hi>Popes</hi> adjudge them to be ſo.</p>
+                  <p>
+                     <hi>That,</hi> thoſe who will not promote the Catholick Intereſt by Warrs and Arms, ought to be proſcribed and a Reward proclaimed to thoſe that kill them.</p>
+                  <p>
+                     <hi>That,</hi> they are worſer than <hi>Turks,</hi> and <hi>that</hi> it is more juſt and neceſſary to exterminate them by force of Arms than to overcome the Turks.</p>
+                  <p>
+                     <hi>That,</hi> no Peace is to be made, no Commerce to be kept with them.</p>
+                  <p>
+                     <hi>That,</hi> no Faith is to be kept with them though confirm'd with Oaths.</p>
+                  <p>
+                     <hi>That</hi> a forreign <hi>Biſhops</hi> is <hi>ſupream Governour</hi> of theſe <hi>Dominions</hi> in all matters <hi>Eccleſiaſtick,</hi> and in temopral matters alſo in order to Spiritual Con<g ref="char:EOLhyphen"/>cerns.</p>
+                  <p>
+                     <hi>That, England</hi> is the <hi>Popes Kingdom, and the King of England is the Popes Subject</hi> even in Temporals, and holds his <hi>Dominions</hi> of him <hi>in Fee.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> no <hi>Maegiſtrate</hi> among us hath any <hi>Jurisdicton.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> they are not obliged to Anſwer their <hi>Interro<g ref="char:EOLhyphen"/>gatories,</hi> nor owe them any more reverence or ſub<g ref="char:EOLhyphen"/>jection than to <hi>meer private Perſons.</hi>
+                  </p>
+                  <pb n="12" facs="tcp:56534:8"/>
+                  <p>
+                     <hi>That,</hi> they may delude them with <hi>Equivocations</hi> in <hi>Aſſertions</hi> or <hi>Oaths,</hi> and may uſeſuch <hi>Equivocations</hi> when they are ſworn before the <hi>Magiſtrate</hi> not to E<g ref="char:EOLhyphen"/>quivocate.</p>
+                  <p>
+                     <hi>That,</hi> it is no <hi>Mortal Sin</hi> to Charge <hi>falſe Crimes upon,</hi> or bear <hi>Falſe Witneſs</hi> againſt any in their <hi>own Defence.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> it is no Sin to kill thoſe who go about <hi>to diſ<g ref="char:EOLhyphen"/>cover the Crimes they are guilty of.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> Biſhops are not the <hi>Subjects</hi> of Secular <hi>Prin<g ref="char:EOLhyphen"/>ces.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> they cannot be Guilty of <hi>Treaſon.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> Churchmen are exempted from all <hi>Juriſdicti<g ref="char:EOLhyphen"/>on</hi> of <hi>Civel Magiſtrates</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> the <hi>Pope</hi> may exempt <hi>Lay-men</hi> as well as the <hi>Clergy.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> no <hi>Proteſtants,</hi> Nobles or <hi>Commons,</hi> can be <hi>Members</hi> of <hi>Parliament.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> Laws not agreeable to the <hi>Roman Decrees</hi> are of no moment.</p>
+                  <p>
+                     <hi>That,</hi> ſince a <hi>Wife</hi> owes no Conjugal Duty to an <hi>Huſband,</hi> who is not a <hi>Papiſt,</hi> nor a <hi>Slave,</hi> any Service to his <hi>Maſter,</hi> and <hi>Parents</hi> looſe the <hi>Superiority</hi> and <hi>Dominion</hi> which they have by the Law of Nature over their <hi>Children;</hi> therefore no man ſhould wonder that in the like caſe a <hi>Soveraign</hi> ſhould looſe his <hi>Su<g ref="char:EOLhyphen"/>periority</hi> and <hi>Right</hi> over his <hi>People</hi> and <hi>Kingdomes.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> the <hi>Pope</hi> may command the <hi>King's Subjects</hi> not to <hi>Obey</hi> him.</p>
+                  <p>
+                     <hi>That,</hi> he may Compel them into <hi>Rebellion.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> he can abſolve <hi>Subjects</hi> from the <hi>Oaths</hi> of <hi>Al<g ref="char:EOLhyphen"/>legiance</hi> and <hi>Obedience</hi> to their <hi>Prince;</hi> and the <hi>Princes</hi> from <hi>Oaths</hi> Oblieging them to their <hi>Subjects.</hi>
+                  </p>
+                  <pb n="13" facs="tcp:56534:8"/>
+                  <p>
+                     <hi>That,</hi> an <hi>Heretical or Proteſtant King</hi> is <hi>no King.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> he is a <hi>Tyrant</hi> and <hi>Uſurper,</hi> and may be uſed accordingly.</p>
+                  <p>
+                     <hi>That,</hi> to acknowledge ſuch a <hi>King,</hi> is to advance a <hi>Dog</hi> to be <hi>Soveraign</hi> over <hi>Men.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> he hath no real <hi>Majeſty</hi> or <hi>Soveraignty.</hi>
+                  </p>
+                  <p>That, no <hi>Treaſon</hi> can be committed againſt him.</p>
+                  <p>
+                     <hi>That,</hi> he can enact no <hi>Laws,</hi> nor is capable of any Acts of <hi>Sovereignty.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> Acts of <hi>Juriſdiction</hi> done by his <hi>Authority</hi> are Void and Null, by the Law of God and Man.</p>
+                  <p>
+                     <hi>That,</hi> no <hi>War</hi> can lawfully be denounced or waged by him, though the Cauſe be never ſo juſt.</p>
+                  <p>
+                     <hi>That,</hi> no <hi>Leagues, Treaties, Confederacies,</hi> for his ad<g ref="char:EOLhyphen"/>vantage, as a <hi>Heretick,</hi> however confirmed, do obliege <hi>Catholicks.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> they may lawfully betray their Truſt, and deliver up to the Enemy, what their Prince com<g ref="char:EOLhyphen"/>mits to their Charge, <hi>Garriſons, Troops, Magazines, Treaſure,</hi> &amp;c.</p>
+                  <p>
+                     <hi>That</hi> a <hi>Prince</hi> falling from <hi>Popery,</hi> looſeth all his Authority and Dignity, even before Sentence.</p>
+                  <p>
+                     <hi>That</hi> after Sentence, no Man can lawfully Serve, or give Aid unto ſuch a <hi>Prince.</hi>
+                  </p>
+                  <p>
+                     <hi>That,</hi> he not only may lawfully, but ought in Conſcience to be <hi>Dethroned; Subjects</hi> being bound to it by the <hi>Divine Precept,</hi> and upon their Salvati<g ref="char:EOLhyphen"/>on.</p>
+                  <p>
+                     <hi>That,</hi> it is the Subjects Duty, to take up <hi>Arms</hi> a<g ref="char:EOLhyphen"/>gainſt him.</p>
+                  <p>
+                     <hi>That,</hi> the <hi>Pope</hi> may <hi>Depoſe</hi> a <hi>King,</hi> not only for <hi>He<g ref="char:EOLhyphen"/>reſy,</hi> or <hi>Tyranny,</hi> or <hi>Sacriledge,</hi> or <hi>Perjury,</hi> or <hi>Breach</hi> of <hi>Promiſe,</hi> or <hi>Effeminacy,</hi> or any of theſe many <hi>Faults</hi>
+                     <pb n="14" facs="tcp:56534:9"/>which are liable to <hi>Excommunications;</hi> but alſo for <hi>favouring Heriticks,</hi> or <hi>tolerating Schiſmaticks,</hi> or for <hi>Profuſeneſs</hi> in ſpending the <hi>Publick Treaſure;</hi> yea, or for <hi>Ignorance,</hi> or <hi>Negligence,</hi> or <hi>Inſufficiency,</hi> or <hi>Weak<g ref="char:EOLhyphen"/>neſs</hi> of Mind, or Body.</p>
+                  <p>
+                     <hi>That if a Prince</hi> be never ſo well qualified for <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> or other <hi>Accompliſhments,</hi> the <hi>Pope</hi> may <hi>Dethrone</hi> him, if his <hi>Holineſs</hi> think it but <hi>Expedient.</hi> Nay, he may do it without any <hi>Cauſe,</hi> and <hi>diſpoſe</hi> of his <hi>King<g ref="char:EOLhyphen"/>dom</hi> as he liſts.</p>
+                  <p>
+                     <hi>That</hi> if <hi>Princes</hi> be <hi>Proteſtants,</hi> he hath as much <hi>Right</hi> to throw them out of their <hi>Thrones,</hi> as we have to drive away <hi>Wolves,</hi> or <hi>Mad Dogs,</hi> or <hi>Wild Aſſes.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> not to believe the <hi>Pope</hi> hath this <hi>Power,</hi> is <hi>Madneſs</hi> and <hi>damned Hereſy.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> not one <hi>Catholick Author</hi> can be brought, who <hi>denies it.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> Chriſt had not been <hi>ſufficiently careful</hi> of the <hi>Church,</hi> if he had not given the <hi>Pope</hi> this <hi>Power</hi> over <hi>Kings.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> he had not ſufficiently provided for our <hi>Salvation,</hi> if <hi>Kings</hi> might not be thus <hi>depri<g ref="char:EOLhyphen"/>ved.</hi>
+                  </p>
+                  <p>
+                     <hi>That</hi> the <hi>Popes</hi> only have not this Power, but even <hi>Inferiour Prelate,</hi> may throw down <hi>Kings. Biſhops,</hi> how poor and weak ſo ever, have this <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> for <hi>Kings</hi> are but their Subjects, and a <hi>Prieſt</hi> is as much above a <hi>King,</hi> as a Man is above a <hi>Beaſt.</hi>
+                  </p>
+               </q>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Do their approved Authors publiſh ſuch things as theſe?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, And I will ſhew you their own Words for it, in their own <hi>Language,</hi> when you pleaſe. Indeed
+<pb n="15" facs="tcp:56534:9"/>they have made the Proof of ſuch a <hi>Charge</hi> very eaſy by their other <hi>Principles.</hi> We need not trouble our ſelves to ſhew, that this or that Practical Aſſertion is decreed by a <hi>General Council,</hi> or entertained by their whole <hi>Church;</hi> it will be evident enough, if it be made appear, to be the Judgement of ſome of their <hi>Grave Doctors:</hi> for it is a received <hi>Maxim,</hi> That in Matters of <hi>Morality, a Probable Opinion may be followed with a ſafe Conſcience,</hi> and an Opinion is made probable by the Authority of the <hi>Doctors</hi> who deliver it.</p>
+               <p>
+                  <hi>Caramuel</hi> aſſures us four <hi>Doctors</hi> will do it currently.</p>
+               <p>In Father<note n="(a)" place="margin">
+                     <hi>Abbot</hi> An<g ref="char:EOLhyphen"/>tilog. Cap. <hi>13.</hi> P. <hi>191.</hi>
+                  </note> 
+                  <hi>Garnet's</hi> Judgement, two or three will be <hi>ſufficient:</hi> but many hold that one <hi>Grave Doctor</hi> is enough.</p>
+               <p>
+                  <hi>Verricelli</hi>
+                  <note n="(b)" place="margin">Opuſe. Pag. <hi>56.</hi>
+                  </note> (as <hi>Guimenius</hi> tells us) quotes <hi>twenty four</hi> of their <hi>Authors</hi> that maintain this. I ſuppoſe he might have made them up <hi>Forty,</hi> by what I have ſeen. And thoſe that require the Concurrence of four, in an Opinion to make it probable, muſt grant that one will ſuffice, unleſs they will contradict themſelves, ſince there are more than <hi>Twenty Four</hi> who hold that <hi>One Doctor</hi> is ſufficient. Now there is not the moſt ex<g ref="char:EOLhyphen"/>travagant Aſſertion among all theſe forementioned, but the Authority of <hi>One grave Doctor,</hi> at leſt, may be produced for it; and this is enough to make it lawful in practice, paſt all ſcruple. So that there needs no more but the Opinion of any one grave <hi>Caſuiſt</hi> or <hi>Con<g ref="char:EOLhyphen"/>feſſor</hi> to aſſure the lawfulneſs of the moſt Horrid Vil<g ref="char:EOLhyphen"/>lany that ever was, or can be acted; Be it the <hi>Killing</hi> ef a <hi>King,</hi> or all the <hi>Princes</hi> on Earth that are <hi>Hereticks.</hi> The Life of <hi>Queen Elizabeth</hi> was divers times atrempted with an aſſurance the Attempt was Lawful, upon no better Authority. Or the <hi>Burning</hi> of ſuch a City as <hi>London,</hi> though 'tis like there was a Concurrence of
+<pb n="16" facs="tcp:56534:10"/>more in this. Or the blowing up a <hi>Parliament,</hi> the Opinion of <hi>Harry Garnet</hi> alone, ſatisfyed the moſt ſcrupulous of the <hi>Conſpirators,</hi> that the Fact was both Lawfull and Meritorious.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I think theſe laſt <hi>Maxims</hi> upon which they raiſe their <hi>Doctrine of Probability</hi> will prove as pernicious, as any before mentioned, ſince they are virtually <hi>all that is wicked.</hi> And <hi>Papiſts</hi> muſt be more dangerous Perſons than I was willing to ſuſpect, ſince a <hi>Prieſt</hi> can make any thing Lawfull for them. The Opinion of <hi>One Doct<g ref="char:EOLhyphen"/>or</hi> is as good for this purpoſe as a <hi>Popes Bull,</hi> or the <hi>De<g ref="char:EOLhyphen"/>cree</hi> of a <hi>General Council.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>True. Theſe might make it more <hi>Certain,</hi> but there's no need of <hi>Certainty</hi> in the caſe, a meer <hi>Probabi<g ref="char:EOLhyphen"/>lity</hi> makes their Practice ſafe enough in Conſcience. And though a conſtitution of a <hi>Pope</hi> or <hi>Council</hi> might make it <hi>more Certain</hi> and <hi>more Safe,</hi> they are not Con<g ref="char:EOLhyphen"/>cerned for that, but may Lawfully act according to an <hi>Opinion</hi> that is both <hi>leſs Probable</hi> and <hi>leſs Safe</hi> (that's their common Doctrine) and ſo follow the Opinion of <hi>One,</hi> though a weaker <hi>Doctor,</hi> rather than the Judg<g ref="char:EOLhyphen"/>ment of <hi>many</hi> how eminent ſo ever. For Inſtance, ſup<g ref="char:EOLhyphen"/>poſe <hi>Forty</hi> or an <hi>Hundred</hi> of their beſt <hi>Divines</hi> deter<g ref="char:EOLhyphen"/>mine that it is unlawfull to ſuborn <hi>Witneſſes</hi> by falſe <hi>Oaths</hi> to take away the Reputation, Eſtate or Life of a <hi>Proteſtant,</hi> and <hi>Two</hi> or <hi>Three,</hi> or but <hi>One Prieſt,</hi> of re<g ref="char:EOLhyphen"/>pute among them. conclude that this is Lawfull; a Villian bribed to do it, may be ſecured in Conſcience of the lawfulneſs of it by his ſole Authority. And thus the Juſt or more Specious Determinations of the better ſort of their Divines will ſignify nothing, and we ſhall be deluded if we rely on them; one obſcure <hi>Doctor</hi> or <hi>Confeſſor,</hi> of whom we have no notice, may carry it
+<pb n="17" facs="tcp:56534:10"/>againſt them all; for the Lawfullneſs of a Deſign or Attempt to Ruin <hi>Particular Perſons,</hi> or a whole <hi>Coun<g ref="char:EOLhyphen"/>trey Prince</hi> and <hi>People.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>God bleſs us from Men of ſuch Principles.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have given you a taſt, of the <hi>Prieſts Principles,</hi> can you ſhew me any owned by the <hi>Prieſbyterians</hi> like to theſe?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>It may be their are not ſo many, nor quite ſo bad, but they are bad enough.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Be it ſo. But that will not make them <hi>worſe,</hi> nor <hi>ſo Bad</hi> as <hi>Papiſts,</hi> as you declared them to be before; No nor worſe than your ſelf, and thoſe that Symbolize with you in this Cenſure of your Fellow <hi>Proteſtants.</hi> For you will not Preſume that you are better, than the beſt on Earth; and even thoſe are bad enough. But pray where may we ſee thoſe Principles of theirs which you count bad enough? For I have reaſon to believe, that it is either <hi>Paſſion</hi> or <hi>Malice</hi> that manages this charge, and neither of theſe are to be truſted further than we can ſee.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I will not ſend you far for this. You may ſee it in a late <hi>Print,</hi> Intituled, <hi>The Cloak in 'its Colours,</hi> where 'its Demonſtrated from the Writings of <hi>Calvin, Beza, Knox,</hi> and <hi>Buchanan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have ſeen that <hi>Pamphlet</hi> ſome Moneths ſince, and find theſe four Authors cited, whoſe Sayings alledg<g ref="char:EOLhyphen"/>ed right or wrong, muſt paſs for a Demonſtration a<g ref="char:EOLhyphen"/>gainſt the whole Party; and yet they are the very ſame Perſons whoſe words the <hi>Jeſuit Parſons</hi> long
+<pb n="18" facs="tcp:56534:11"/>fince abuſed to prove that the <hi>Proteſtants</hi> Principles are in this Particular worſe than the <hi>Papiſts.</hi> By which we may diſcern whoſe Diſciple this <hi>Scribler</hi> is, and what Difference they make between <hi>Proteſtants</hi> and <hi>Preſbyterians.</hi> Both muſt fall under the ſame Re<g ref="char:EOLhyphen"/>proach, as they intend both ſhall Fall by the ſame Exe<g ref="char:EOLhyphen"/>cution, if their Plot Succeed. There needs no other Vindication of the <hi>Preſbyterians,</hi> but <hi>Doctor</hi> (afterwards <hi>Biſhop</hi>) <hi>Morton's</hi> Anſwer to the <hi>Jeſuit</hi> in behalfe of the <hi>Proteſtants,</hi> for they muſt ſtand or fall together, and he that runs at thoſe, Wounds thoſe through their ſides, and forgets, if he be a <hi>Proteſtant,</hi> his Duty to the Common Intereſt, to ſerve his Particular Paſſions. <hi>Parſons</hi> and his<note n="(c)" place="margin">Pag. 7.</note> 
+                  <hi>Second</hi> (towave the Fooliſh and nauſe<g ref="char:EOLhyphen"/>ous language with which he uſhers it in,) make <hi>Calvin</hi> Speak thus; <q rend="inline">Earthly Princes do deprive themſelves of all Power when they Oppoſe God, nay, they are not worthy to be held in the number of Men, we muſt therefore rather Spit in their Faces than Obey them.</q> To this <hi>Dr. Morton</hi> Anſwers, haveing ſhew'd the <hi>Je<g ref="char:EOLhyphen"/>ſuits Ignorance</hi> in abuſing <hi>Calvins</hi> words at large, (too large to be tranſcribed) he ſhews his <hi>Deceit</hi> alſo thus; <hi>Calvin</hi> ſaith, <q>(ſay you) that ſuch a <hi>King</hi> is to be bereaved of all Authority. It's noted of <hi>Satan's</hi> Temptation, that in alledging a Text of Scripture (<hi>he hath given his Angels charge over thee, to keep thee in all thy Wayes</hi> the ſubtile Tempter left out the words of greateſt Importance, in <hi>all</hi> thy wayes. I will not charge you with the Imitation of that Spirit of Lying by Subſtracting, for you do but add only one word (all) <hi>bareaved of all Authority.</hi> But <hi>Calvin, abdicant ſe Poteſtate,</hi> bereaved of Authority, meaning only in that caſe of contradiction againſt God.</q> A little be<g ref="char:EOLhyphen"/>fore having delivered <hi>Calvins</hi> Doctrine in his own
+<pb n="19" facs="tcp:56534:11"/>words<note n="(d)" place="margin">
+                     <hi>Full Satisf.</hi> Pag. 118, 119.</note> (Pag. 108) too clear for the Ignorance of this Scriber, or the Malice of a <hi>Jeſuit</hi> to deface it, the <hi>Learned Doctor</hi> concludes thus, <hi>Pag.</hi> 109. <hi>But read and Examine all the Lines which ever Calvin Pen'd, and you ſhall not find one Syllable that can Prejudice his Loyalty.</hi> But this was in an Age when <hi>Calvin</hi> had more Friends in <hi>England,</hi> and <hi>Popery</hi> more Enemies: <hi>Biſhop Bilſon</hi> Vindicates him thus; <hi>Calvin</hi> is ſo <q>well known to thoſe that be <hi>Learned</hi> or Wiſe, for his great Pains and good Labours in the <hi>Church</hi> of <hi>God,</hi> that a few <hi>Snarl<g ref="char:EOLhyphen"/>ing Fryars</hi> cannot Impeach his Name, though you ne<g ref="char:EOLhyphen"/>ver ſo Wretchedly Pervert his words. By <hi>Abdicant ſe Poteſtate,</hi> he meaneth not they forfeit their Crowns, but that they looſe their Power to Command in thoſe things, which in other Caſes that be Lawfull they not<g ref="char:EOLhyphen"/>withſtanding retain. And though the Phraſe to <hi>Spit upon their Heads</hi> ſeems ſomewhat hard, yet the com<g ref="char:EOLhyphen"/>pariſon ſo ſtanding as he maketh it, that is, whether they were better utterly to Continue their Impious Edicts, and to deny ſuch Sinfull Acts to their Faces, which is meant by Spitting at them, or elſe Obey them, Spoyling God of his Right, and as it were pull<g ref="char:EOLhyphen"/>ing him out of Heaven, I ſay, we muſt no way con<g ref="char:EOLhyphen"/>ſent to yeild any regarde or Reverence, to their I<g ref="char:EOLhyphen"/>dolatrous Rage and Pride againſt God. This is all that <hi>Calvin</hi> in vehement Words, as his manner is, urg<g ref="char:EOLhyphen"/>eth; and this is far from Rebelling and Purſuing <hi>Princes</hi> with Arms, as you would have his words to Sound.</q>
+                  <note n="(d)" place="margin">Chriſtian Subject. <hi>P. 509.</hi>
+                  </note>
+               </p>
+               <p>
+                  <q rend="inline">Next he traduces<note n="(e)" place="margin">Ibid.</note> 
+                     <hi>Beza,</hi> telling us that in his Book <hi>De jure Mageſtratus,</hi> he doth arm tke Subject a<g ref="char:EOLhyphen"/>gainſt the <hi>Prince,</hi> and in Effect overthroweth the Au<g ref="char:EOLhyphen"/>thority of <hi>Chriſtian Kings</hi> and <hi>Magiſtrates.</hi>
+                  </q> But where? Why, he would have us believe that <hi>Dr. Suthliff</hi>
+                  <pb n="20" facs="tcp:56534:12"/>alledges <hi>Beza</hi> his Book <hi>De jure Magiſtratus</hi> for this. What ſaies <hi>Dr. Morton</hi> here?. He aſſures us that he conferred with <hi>Dr. Suthliff,</hi> who Anſwered him, that the Book <hi>De jure Magiſtratus,</hi> he never thought to be <hi>Beza</hi> his work. So that Malice and Ignorance make up one Part of this Demonſtration, and a peice of <hi>Forgery</hi> the other. And a little before, the <hi>Jeſuit</hi> ac<g ref="char:EOLhyphen"/>cuſing <hi>Beza</hi> and other <hi>Proteſtants</hi> of ſuch Doctrine, the <hi>Doctor</hi> Anſwers, <hi>But if you ſhould vow faithfully not to Eat, till you prove this, I could eaſily Prognoſticate what Death you ſhould Die.</hi>
+                  <note n="(g)" place="margin">Pag. 109.</note>
+               </p>
+               <p>
+                  <q rend="inline">Mr. <hi>Knox</hi> is the third he accuſes in theſe words<note n="(h)" place="margin">
+                        <hi>Cloak.</hi> Pag 7.</note> Noble Men, (ſaith <hi>Knox,</hi>) ought to refrom <hi>Religion</hi> if the <hi>King</hi> will not. If the <hi>Prince</hi> will not yeild to his Nobles and People, he armeth them with Power to De<g ref="char:EOLhyphen"/>poſe him. Nay, ſaith he farther, if <hi>Princes</hi> be <hi>Tyrants</hi> againſt God and his Truth, their Subjects are freed from their Oaths of Obedience.</q> He grounds the charg upon the <hi>Hiſtory of the Church,</hi> of which he will have <hi>Knox</hi> to be the Author. But Archbiſhop <hi>Spots<g ref="char:EOLhyphen"/>wood,</hi> (no great Friend to <hi>Preſbyterians</hi>) aſſures us, that was none of his Book, in theſe words; <q rend="inline">As to the <hi>Hiſtory of the Church,</hi> aſcribed commonly to him, the ſame was not his Work, but his Name ſuppoſed to gain it credit. And he proves it too, as by other Reaſons, ſo this particularly; ſpaking of one of our <hi>Martyrs,</hi> he remitteth the Reader for a further De<g ref="char:EOLhyphen"/>claration of his Sufferings, to the <hi>Acts and Monuments</hi> of <hi>Martyrs,</hi> ſet forth by Mr. <hi>Fox</hi> an <hi>Engliſh-Man,</hi> which came not to Light ſome ten or twelve Years after Mr. <hi>Knox</hi> his Death.</q>
+                  <note n="(i)" place="margin">Hiſtory of the Church of <hi>England</hi> Lib. <hi>5. P. 267.</hi>
+                  </note> And this he doth in a di<g ref="char:EOLhyphen"/>greſſion, wherein he ſhews what a <hi>worthy Perſon</hi> Mr. Knox <hi>was, both in Life and Death, And the rather</hi> (he ſaies) <hi>becauſe ſome Malicious, and wicked Spirits, have Studyed by many Forged Lies, to deprave his Fame; only
+<pb n="21" facs="tcp:56534:12"/>out of hatred to true Religion, whereof he was a Zealous Promoter.</hi>
+                  <note n="(k)" place="margin">Pag. 264.</note>
+               </p>
+               <p>His fourth and laſt Author is <hi>Buchanan,</hi> whom he cites as another <hi>Apoſtle</hi> of <hi>Scotland,</hi> but he adviſedly tells us, not in what Volume we may find the words (perhaps they are in <hi>Buchanan's Comon Places,</hi> which another learnedly Cites, to promote the ſame <hi>Catholick Deſign,</hi> for dividing <hi>Proteſtants</hi> in order to their Ruin) And after he hath abuſed the World with ſuch Truth and Ingeniouſneſs, as became the <hi>Jeſuit Parſons</hi> in three of his evidences; hath he the confidence to expect we ſhould take his word in the fourth? Indeed I have found <hi>Buchanan</hi> elſewhere charged for giving too much Power to the People, but if ſome miſtake not, what he does is upon a Suppoſition, that the Laws and Conſtitutions of the Government allow it; and what the Law gives, none will queſtion, but it may be Law<g ref="char:EOLhyphen"/>fully challenged. But then what Power the People have by the Laws of this or that Country is no Doctrine of Faith nor matter of Religion, but a Point of Law; and more proper to be decided by <hi>Lawyers</hi> than <hi>Di<g ref="char:EOLhyphen"/>vines.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I ſuppoſe the Book of <hi>Buchanan's</hi> which my Au<g ref="char:EOLhyphen"/>thor intended, <hi>is De jure Regni.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If that be it, there is no reaſon to charge the <hi>Preſbyterians</hi> with it more than others, for it was call'd in by Act of Parliament, as <hi>Dr. Morton</hi>
+                  <note n="(l)" place="margin">P. 107. <hi>ib.</hi>
+                  </note> Anſwers the Jeſuit, <hi>Anno,</hi> 1584. And this was before <hi>Epiſcopacy</hi> was ſettled in <hi>Scotland</hi> by King <hi>James.</hi> We have done with your <hi>Author</hi> and the <hi>Jeſuit,</hi> the one accuſing the <hi>Preſbyterians,</hi> the other the <hi>Proteſtants,</hi> in the ſame Words. Have you met with any more elſewhere?</p>
+            </sp>
+            <pb n="22" facs="tcp:56534:13"/>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Diverſe of the <hi>German Divines</hi> I find charged with the like Principles.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>German Divines</hi> might do, as ours and other too often do, meaſure other Governments by that of their own Countreys. But I leave others to Judge, whether it be conſiderately done by Divines. Forreign or at Home, to determine of the Power of <hi>Princes</hi> and <hi>People</hi> as if it where every where the ſame, when it is not the ſame any where; and to make a <hi>Jus Divinum</hi> the meaſure of that Univerſally, whoſe proper meaſure is the peculiar Laws of ſeveral Countreys, and the va<g ref="char:EOLhyphen"/>rying and very Different Conſtitutions of their reſpect<g ref="char:EOLhyphen"/>ive Governments. It ſeems no leſs a miſtake, to look upon the Notions of <hi>Treaſon</hi> and <hi>Rebellion</hi> in <hi>People,</hi> and of <hi>Tyranny</hi> in <hi>Princes</hi> as though they where fixed and invariable: whereas that may be ſuch in <hi>England</hi> which is not in <hi>France,</hi> and that ſuch in <hi>Germany</hi> or <hi>Poland,</hi> which is not ſo in <hi>England;</hi> and that ſo in one part of the <hi>King</hi> of <hi>Spain's Dominions,</hi> which is not ſo in a<g ref="char:EOLhyphen"/>nother. However there needs no other Anſwer for the <hi>German Writers</hi> than that of Biſhop <hi>Bilſon,</hi> whom your cloaked Author Cites Diverſe times, as tho he fa<g ref="char:EOLhyphen"/>vour'd him.<note n="(m)" place="margin">Chriſtian Subjection, <hi>Pag. 513.</hi>
+                  </note> In <hi>Germany</hi> 
+                  <q rend="inline">the Emperour himſelf hath his <hi>Bounds</hi> appointed him, which he may not paſs by the Laws of the <hi>Empire;</hi> and the <hi>Princes, Dukes</hi> and <hi>Cities,</hi> that are under him, have Power to Govern and uſe the <hi>Sword</hi> as <hi>Gods Miniſters</hi> in their Charges; and though for the Maintenance of the <hi>Emperiour,</hi> they be Subject to ſuch Orders as ſhall be Decreed, <hi>&amp;c.</hi> Yet if he touch their <hi>Poli<g ref="char:EOLhyphen"/>ces,</hi> infring their <hi>Liberties,</hi> or violate their <hi>Specialities,</hi> which he by Oath and Order of the <hi>Empire is</hi> bound to keep; they may Lawfully Reſiſt him, and by Force
+<pb n="23" facs="tcp:56534:13"/>Reduce him to the Antient and received form of <hi>Government,</hi> or elſe Repel him as a <hi>Tyrant,</hi> and ſet a<g ref="char:EOLhyphen"/>nother in his place by the Right and Freedom of their Countrey. Therefore the <hi>German's</hi> doings or writings can help you little in this <hi>Queſtion,</hi> they ſpeak according to the Laws and Rights of the <hi>Empire,</hi> themſelves being a very Free State, and bearing the Sword as <hi>Lawfull Mageſtrates,</hi> to defend their Liber<g ref="char:EOLhyphen"/>ties and prohibit Injury againſt all Oppreſſors, the <hi>Emperour</hi> himſelf not excepted.</q>
+               </p>
+               <p>But not to digreſs further; Who elſe can you pro<g ref="char:EOLhyphen"/>duce?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I will trouble you with no more at preſent.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am apt to belive, that if the Perſons you are ſo bitter againſt, were not loath to expoſe our Religion as others do; they might alledge out of the moſt <hi>emi<g ref="char:EOLhyphen"/>nent Prelatiſts</hi> ſuch Paſſages as look with as ill an Aſpect upon the <hi>Civil Government,</hi> as any other of the <hi>Re<g ref="char:EOLhyphen"/>formed Divines</hi> you can produce, And if they ſhould do this, by way of recimination, as you provoke them to do it would you think it reaſonable from two or three Inſtances to conclude, that all the <hi>Epiſcopal Di<g ref="char:EOLhyphen"/>vines</hi> are worſe than <hi>Papiſts?</hi> And yet there is neither more Reaſon nor more Honeſty, in the one than in the other.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I ſhould not think ſo ill of <hi>Preſbyterian Principles,</hi> upon the report of <hi>Papiſts</hi> only, but they are ill repre<g ref="char:EOLhyphen"/>ſented by ſome <hi>Proteſtants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>It may be ſo, but by none that I have ſeen, ſave ſuch as take pleaſure to lick up the <hi>Papiſts</hi> Vommit,
+<pb n="24" facs="tcp:56534:14"/>and Spue it out again upon the <hi>Reformed Religion,</hi> after all hath been clean wiped off by thoſe that are <hi>Pro<g ref="char:EOLhyphen"/>teſtants indeed;</hi> and that with as little regard of Truth or Modeſty, as the <hi>Papiſts</hi> ſhew when they tell us, <q rend="inline">That the cheif Proteſtans, Biſhops and Churchmen, did all that lay in their Power to exclude <hi>Mary</hi> their Lawfull <hi>Queen</hi> from the Throne.<note n="(n)" place="margin">Parſons mi<g ref="char:EOLhyphen"/>tigation, <hi>Pag. 224</hi>
+                     </note> The <hi>Jeſuit</hi> names <hi>Cranmer, Ridley, Latimer, Sands, Jewel, Hooper,</hi>
+                     <note n="(o)" place="margin">Pag. <hi>123.</hi>
+                     </note> &amp;c. And, affirms that the <hi>Biſhops</hi> and all the cheif <hi>Proteſtant</hi> Miniſters did concur in the Duke of <hi>Nor<g ref="char:EOLhyphen"/>thumberlands</hi> Rebellion.<note n="(p)" place="margin">Sober Reck<g ref="char:EOLhyphen"/>oning <hi>Pag. 253.</hi>
+                     </note> And that <hi>Biſhops</hi> and Miniſters had as deeply their hearts and hands and heads in the Rebellion of <hi>Wyat</hi> and the <hi>Duke of Suf<g ref="char:EOLhyphen"/>folk,</hi> and much more than in the former Rebellion<note n="(q)" place="margin">
+                        <hi>Ibid</hi> Pag. 254.</note> That it was the conſent of theſe and the chiefeſt <hi>Pro<g ref="char:EOLhyphen"/>teſtant Biſhops</hi> and <hi>Divines,</hi> that <hi>Queen Mary</hi> might be depoſed, and not only ſhe, but her Siſter <hi>Queen Elizabeth</hi> a <hi>Proteſtant,</hi> which was put in practice to the utmoſt of the <hi>Proteſtants</hi> power both with Wit and Weapons—and this not only againſt the Statutes of the <hi>Kingdom,</hi> but their own Oath to the Lady <hi>Mary</hi> in her Father's Life.<note n="(r)" place="margin">
+                        <hi>Idem</hi> Mod. <hi>anſ.</hi> Cap. 3. <hi>in</hi> Mort. <hi>full Satis<g ref="char:EOLhyphen"/>fact.</hi> Pag. 200.</note> The like, (ſaies he,) the <hi>Proteſtant</hi> Forces and <hi>Parliaments</hi> did againſt the Succeſſion of <hi>Queen Elizabeth.</hi>
+                     <note n="(s)" place="margin">
+                        <hi>Ibid.</hi> Pag. 4.</note> Many <hi>Nobles</hi> with the whole <hi>Clergy</hi> are Charged with publick and Dog<g ref="char:EOLhyphen"/>matical Poſitions and Practices of Rebellion againſt, not only <hi>God</hi> and their <hi>Queen,</hi> but Oaths of Fidelity to <hi>Harry</hi> the 8th.<note n="(t)" place="margin">Pag. 9.</note> He tells us alſo, that they do not now profeſs theſe Poſitions, becauſe they are not under <hi>Princes</hi> that preſs them in matters againſt their Will;</q> but that they would fall to them again if they were Pinched as others are.<note n="(u)" place="margin">
+                     <hi>Mitigation.</hi> Pag. 117.</note> Nay, they are bold to invoulve our <hi>Princes</hi> and <hi>State</hi> in the guilt of <hi>Rebellion</hi> (as they will call them) in <hi>Scotland, France,</hi>
+                  <pb n="25" facs="tcp:56534:14"/>the <hi>Neither Lands,</hi> &amp;c. as having their cheif encourage<g ref="char:EOLhyphen"/>ment and ſupports from our <hi>Princes</hi> and <hi>Parliaments.</hi>
+                  <note n="(a)" place="margin">Ibid. P. <hi>44.</hi>
+                  </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>All this hath been fully vindicated long ſince.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And ſo has <hi>Cabvin, Beza,</hi> and others of the <hi>Re<g ref="char:EOLhyphen"/>formed Churches,</hi> and that by the ſame Hands. But there are a ſort of <hi>Proteſtants</hi> of a Latter Edition, who have little of <hi>Proteſtants</hi> but the Name, (and ſeem to have crowded what <hi>Religion</hi> they have, into ſome few things wherein we agree with the <hi>Papiſts,</hi> making little or nothing of moſt of the Differences betwixt us) and theſe not admitting the Defence made for the lat<g ref="char:EOLhyphen"/>ter, will be obliged to reject that made for the other. Accordingly ſome of them have made it their buſineſs, to rake up all the Dirt which the <hi>Papiſts</hi> could help them to, how clean ſo ever removed by our Champi<g ref="char:EOLhyphen"/>ons againſt the <hi>Romaniſts:</hi> and would overwhelm and bury the <hi>Proteſtants Religion</hi> under it, pretending that they deſign only <hi>a Grave for the Preſbyterians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>But if the Principles of the <hi>Preſbyterians</hi> be ſo innocent, and ſuch as the beſt of our former <hi>Biſhops</hi> did approve; yet certainly ſome of their Practices cannot be juſtifyed.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No, nor all the Practices of any ſort of Men on Earth, how good ſoever their Principles be, ſo long as they are but Men, and have Depraved Natures, and are liable to Miſtakes, and ſenſible of Intereſt and Dan<g ref="char:EOLhyphen"/>ger, and expoſed to Temptation. You will count it highly unjuſt, and unreaſonable, to charge a whole Community conſiſting of ſome Millions, with the Odi<g ref="char:EOLhyphen"/>ous Act of a ſew in Compariſon, when they generally declare againſt it, and own no Principle that may en<g ref="char:EOLhyphen"/>courage
+<pb n="26" facs="tcp:56534:15"/>it. And the Iniquity will be greater, if it be a rare Act, far from a common Practice, eſpecially, if they fall into it upon a Miſtake, that the Laws and Conſtitutions of the <hi>Government</hi> allow it. If this be the Caſe, are not the <hi>Proteſtants</hi> moſt injuriouſly uſed? Would it not be counted intolerable for any to brand the <hi>Church of England</hi> as a Company of Rebels and Traytors againſt God; becauſe, there are ſome in her Communion, who live in ſuch open Wickedneſs, as is counted <hi>Rebellion</hi> againſt the <hi>Moſt High?</hi> Eſpecially, if they were but few under ſuch Guilt, and that very ſeldome; when, as our <hi>Church</hi> declares againſt, and diſclaimes all Principles that would countenance it? Would it not be unſufferable, to cenſure all our Kings for Tyrants, becauſe, ſome of them have acted <hi>Tyran<g ref="char:EOLhyphen"/>nically</hi> in one or two <hi>Inſtances,</hi> upon a Miſtake too, that the <hi>Laws</hi> did warrant them? Compare theſe Caſes im<g ref="char:EOLhyphen"/>partially, and you will find, that upon the ſame ground you condemn theſe <hi>Proteſtants,</hi> others may as juſtly condemn our <hi>Church,</hi> all, even the beſt of Kings, and the moſt innocent Part of the World.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>This ſeems ſpecious, but may we not upon the ſame Plea acquit the <hi>Papiſts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>In no wiſe; The Caſe is vaſtly different in eve<g ref="char:EOLhyphen"/>ry Point.</p>
+               <p>All the <hi>Papiſts</hi> are engaged in continued <hi>Treaſon<g ref="char:EOLhyphen"/>able</hi> and <hi>Rebellious Practices</hi> againſt <hi>Proteſtant Princes</hi> and <hi>States,</hi> by the <hi>Laws</hi> and <hi>Rules</hi> of their <hi>Religion.</hi> Their <hi>Principles</hi> oblige them to it Univerſally under pain of <hi>Damnation.</hi> It will be a Damnable ſin not to be <hi>Re<g ref="char:EOLhyphen"/>bells</hi> and <hi>Traytors,</hi> when they have Power and <hi>Oppor<g ref="char:EOLhyphen"/>tunity</hi> and hopes of Succeſs. Thoſe who to the utmoſt
+<pb n="27" facs="tcp:56534:15"/>endeavour not to exterminate them, fall under the damning Cenſure of the <hi>Church,</hi> nor are they to deſiſt from ſuch Practices while there are any <hi>Hereticks, Kings</hi> or <hi>Subjects</hi> left alive. And thoſe that periſh in ſuch attempts, how <hi>Treacherous</hi> and <hi>Bloody</hi> ſoever, are aſſured of the Rewards and Priviledges of <hi>Martyrs.</hi> None can have reaſon to doubt of any of theſe, but thoſe that are ſtrangers to the <hi>Decrees</hi> of their <hi>Popes</hi> and <hi>Coun<g ref="char:EOLhyphen"/>cils,</hi> the <hi>Poſitions</hi> of their approved <hi>Writers,</hi> and the <hi>Hiſtories</hi> of former or latter times.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>You ſay ſomething that requires further con<g ref="char:EOLhyphen"/>ſideration.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Pray conſider further of it, and ſuffer not your ſelf to be tranſported with unreaſonable Heats againſt <hi>true Proteſtants,</hi> ſo as to be expoſed to the Subtilties of <hi>Counterfeits;</hi> or to be Surprized with the ſly inſinuati<g ref="char:EOLhyphen"/>ons of others, which may inſnare you in <hi>Popery</hi> before you are aware.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>You ſpake before of ſome <hi>Proteſtants</hi> of a new <hi>Edition,</hi> pray, who do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I mean ſuch who profeſs themſelves to be <hi>Proteſtants,</hi> but entertain themſelves, and inſtill into others, ſuch <hi>Principles</hi> as are like to <hi>betray</hi> them to <hi>Popery,</hi> when occaſion ſerves. One of them we have diſcourſed of already. Another is this, <hi>that they are no true Churches who have not Dioceſan Biſhops.</hi> By this, the far great<g ref="char:EOLhyphen"/>eſt Part of <hi>Proteſtants</hi> are cut off from being <hi>True Churches,</hi> while the <hi>Church of Rome</hi> is allowed this Ho<g ref="char:EOLhyphen"/>nour and happineſs. And ſo <hi>it is</hi> and will be <hi>Inferred,</hi> that it is better for thoſe of the <hi>Reformation</hi> to turn <hi>Bapiſts</hi> then to <hi>continue</hi> in their <hi>Preſent State.</hi> And if
+<pb n="28" facs="tcp:56534:16"/>it be better for them, it will be as good for us of the <hi>Church</hi> of <hi>England:</hi> for the difference cannot be great, where the ground of it is ſo ſmall and of ſo little con<g ref="char:EOLhyphen"/>cern, that moſt, both <hi>Papiſts</hi> and <hi>Proteſtants</hi> count it no <hi>Part</hi> of <hi>Religion.</hi> Upon this account alſo there will be no reaſon left, why we ſhould not turn <hi>Papiſts</hi> but becauſe we have <hi>Dioceſans,</hi> and this can be no rea<g ref="char:EOLhyphen"/>ſon to thoſe who know they may have them in the <hi>Church</hi> of <hi>Rome.</hi> If all that <hi>Proteſtants</hi> do beleive and <hi>Practice,</hi> as <hi>Chriſtians</hi> and <hi>Proteſtants,</hi> is not <hi>Sufficient</hi> to make them true <hi>Churches</hi> without ſuch a ſort of <hi>Offi<g ref="char:EOLhyphen"/>cers,</hi> it will be concluded that the meer retaining of ſuch <hi>Officers</hi> will ſcarce make us in <hi>England</hi> a <hi>True Church,</hi> upon this account beſides others.</p>
+               <p>For whatever is not of <hi>Chriſts appointment,</hi> cannot make that to be a <hi>True Church,</hi> which would not be ſo other wiſe, but whether <hi>Dioceſans,</hi> of the <hi>Roman mode,</hi> be of <hi>Chriſt's Inſtitution,</hi> is a <hi>Queſtion</hi> both in the <hi>Church</hi> of <hi>Rome</hi> and <hi>England,</hi> and ſo it will be <hi>queſtionable</hi> at leaſt, whether this in <hi>England</hi> be a <hi>True Church,</hi> conſe<g ref="char:EOLhyphen"/>quently no <hi>Soul</hi> can be unqueſtionablely ſafe but in the <hi>Church</hi> of <hi>Rome.</hi> Not in the <hi>Reformed Churches,</hi> for they are not <hi>True Churches,</hi> with the men of this <hi>Prin<g ref="char:EOLhyphen"/>ciple;</hi> not in the <hi>Church</hi> of <hi>England,</hi> for it will ſcarce be probable that this is a <hi>True Church,</hi> ſince thoſe Men leave no other <hi>Probability</hi> for it, but what there is for the <hi>Divine Inſtitution</hi> of ſuch <hi>Dioceſans;</hi> and this is de<g ref="char:EOLhyphen"/>nyed by many of the <hi>Romaniſts</hi> and by <hi>ten to one a<g ref="char:EOLhyphen"/>mongſt Proteſtants,</hi> that are learned and judicious. And who that loves his <hi>Soul,</hi> will run the venture of it on ſo great odd's? So that <hi>maxim,</hi> how much ſo ever cryed up by ſome <hi>Bigots</hi> amongſt us, razes all other <hi>Reformed Churches</hi> even to the Foundation; betrayes the <hi>Church of England,</hi> under pretence of ſecuring and advancing
+<pb n="29" facs="tcp:56534:16"/>it, by leaving the whole weight of it to lean <hi>upon a Straw,</hi> but is of real and great advantage to the <hi>Papiſts,</hi> ſerving to <hi>Ferret</hi> Unſtable Souls out of all other Churches, that they may run into that of <hi>Rome.</hi>
+               </p>
+               <p>The <hi>Proteſtant Religion</hi> will ſcarce be thought worth the owning, if all the Points of it together be of leſs weight and value than this one, and this ſuch a one wherein <hi>Religion</hi> is ſo little concerned.</p>
+               <p>Our People are alſo prepared for <hi>Popery,</hi> by thoſe who would clear the <hi>Church of Rome</hi> from <hi>Antichriſti<g ref="char:EOLhyphen"/>aniſm,</hi> and <hi>Idolatry,</hi> and <hi>Hereſy.</hi> Hereby the Grounds of our Departure from <hi>Rome</hi> are removed, and a plain Way made for our Return, and what is there left to de<g ref="char:EOLhyphen"/>ter thoſe from <hi>Popery,</hi> who believe thoſe Suggeſtions? They will charge them with ſome <hi>Superſtitions</hi> and <hi>Er<g ref="char:EOLhyphen"/>rours,</hi> and what <hi>Church</hi> is there, which hath not ſome <hi>Tincture</hi> of theſe? The <hi>Antient Churches</hi> are complain<g ref="char:EOLhyphen"/>ed of on this Account, by ſome of their beſt <hi>Writers;</hi> and that the <hi>Errours</hi> in the <hi>Roman Church</hi> may not ſeem more or worſe; they Juſtify many, and excuſe others, and have deviſed Shifts to reconcile all in a manner to the <hi>Doctrine</hi> or <hi>Practice</hi> of our own <hi>Church.</hi> The di<g ref="char:EOLhyphen"/>rect <hi>Tendency</hi> hereof, is to make People indifferent whe<g ref="char:EOLhyphen"/>ther they be <hi>Proteſtants</hi> or <hi>Papiſts,</hi> and to leave them in ſuch a Poſture, as their Intereſt may determine them to either <hi>Religion,</hi> and ſo diſarm them of all that might in<g ref="char:EOLhyphen"/>able them to reſiſt any Temptation to <hi>Popery.</hi>
+               </p>
+               <p>I may alſo take thoſe into the Reckoning, who under the Name of <hi>Proteſtants,</hi> write Volumes for the Ser<g ref="char:EOLhyphen"/>vice of <hi>Popery.</hi> One <hi>Doctor</hi> is notorious for this, <hi>viz.</hi> he that writ a <hi>Satyr</hi> againſt our <hi>Reformation,</hi> and miſ<g ref="char:EOLhyphen"/>call'd it a <hi>Hiſtory</hi> (as he hath ſerved divers others of his Books) wherein following <hi>Sanders</hi> a <hi>Roman Prieſt</hi> (noted above others, as one that had abandoned both
+<pb n="30" facs="tcp:56534:17"/>Truth and Modeſty) he hath made ſuch a falſe and odious <hi>Repreſentation</hi> of the <hi>Proteſtant Reformation,</hi> and the <hi>Reformers,</hi> as hath endangered many, and quite perverted others; particularly, two <hi>near the Crown</hi> have declared (the one in <hi>Writing,</hi> the other in Diſcourſe to diverſe <hi>Perſons of Quality</hi>) that the Book mention<g ref="char:EOLhyphen"/>ed turned them off from the <hi>Proteſtant Religion</hi> to the Communion of the <hi>Roman Church.</hi> Hereby, this <hi>Hiſto<g ref="char:EOLhyphen"/>rian,</hi> ſuch as he is (for he hath nothing requiſite for ſuch a one but his <hi>Style,</hi> and therein may be out-done by a <hi>Writer</hi> of <hi>Legends</hi> or <hi>Satyrs,</hi> of which his Books are a <hi>Medly</hi>) hath done more Miſchief to the Nati<g ref="char:EOLhyphen"/>on and <hi>Church,</hi> than all the <hi>Divines</hi> of his Temper and Principles are like to do good. To ſay nothing that a late <hi>Popiſh Scribler</hi> hath filled diverſe Sheets with Paſſages in Favour of <hi>Popery,</hi> extracted out of his <hi>Hiſto<g ref="char:EOLhyphen"/>ries.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>If this be ſo, I hope, the Rulers of our <hi>Church</hi> will ſet ſome publick Mark of their Diſpleaſure upon ſuch Books, to prevent further Miſchief.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The Miſchief done already is ſo great, that the <hi>Wiſdom of the Nation</hi> is to ſeek how it may be repaired. But if theſe who are moſt ſignificant in the <hi>Church,</hi> would teſtify their Reſentment of it to the World, and withal diſcountenance thoſe, who make it their Buſineſs, to magnify little Differences among true <hi>Proteſtants,</hi> and would blow up <hi>Bubbles</hi> into the bulk of Mountaines, thereby dividing us one from anc<g ref="char:EOLhyphen"/>ther, that we may be ruined together by the <hi>Papiſts,</hi> who equally deſign the Deſtruction of us all. If they would abate thoſe Rigours, the ill Conſequence of which is viſible, and allay the Heats, wherewith men
+<pb n="31" facs="tcp:56534:17"/>of ill Natures, and as had Principles, ſuch as neither become good <hi>Proteſtants,</hi> nor true <hi>Engliſh Men,</hi> would enflame them. If they would ſtigmatize ſuch <hi>Max<g ref="char:EOLhyphen"/>ims,</hi> as under Colour of ſerving ſome little Intereſt, ſlyly undermine our Religion, and trapan unwary people into <hi>Popery:</hi> if they would really confute thoſe who are ready to charge many of them, as having more kindneſs for the <hi>Roman,</hi> than the Reformed Churches, and being more ready for Accommenda<g ref="char:EOLhyphen"/>tions, with the former than the latter; and as ſtill ob<g ref="char:EOLhyphen"/>ſtructing what is offered to ſecure us from the dread<g ref="char:EOLhyphen"/>full return of popiſh <hi>Darkneſs</hi> and <hi>Tyranny:</hi> they would do Juſtice to themſelves and others, and good Service to their <hi>Country</hi> and the <hi>Proteſtant Inter<g ref="char:EOLhyphen"/>eſt.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
